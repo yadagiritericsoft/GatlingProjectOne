@@ -1,0 +1,8 @@
+RUN	com.gatling.tests.computerdatabase	computerdatabase	1655701819542	edit with rampUp users	3.6.1
+USER	computerdatabase	START	1655701820897
+REQUEST		ComputersdataBasePage	1655701820912	1655701821815	OK	 
+REQUEST		NewComputersPage	1655701823888	1655701824108	OK	 
+REQUEST		CreateNewComputer	1655701826132	1655701826352	OK	 
+REQUEST		CreateNewComputer Redirect 1	1655701826359	1655701826579	OK	 
+REQUEST		FilterComputer	1655701827585	1655701827805	OK	 
+USER	computerdatabase	END	1655701827812

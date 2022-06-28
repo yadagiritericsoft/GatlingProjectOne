@@ -1,0 +1,16 @@
+RUN	test.scala.com.gatling.tests.feederdemo	feederdemo	1656409985031	demoo	3.6.1
+USER	Feeders demo	START	1656409985450
+USER	Feeders demo	START	1656409985450
+USER	Feeders demo	START	1656409985450
+REQUEST		Goto Home Page	1656409986482	1656409986482	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Goto Home Page	1656409986482	1656409986482	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Goto Home Page	1656409986482	1656409986482	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Goto Home Page	1656409987506	1656409987506	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Goto Home Page	1656409987506	1656409987506	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Goto Home Page	1656409987506	1656409987506	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Goto Home Page	1656409988515	1656409988515	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Goto Home Page	1656409988515	1656409988515	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Goto Home Page	1656409988515	1656409988515	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Feeders demo	END	1656409988520
+USER	Feeders demo	END	1656409988520
+USER	Feeders demo	END	1656409988520

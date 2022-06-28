@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.EditDatabase",
+  "simulationId": "editdatabase",
+  "start": 1655560936615,
+  "description": "editdatabase system",
+  "scenarios": ["EditDatabase"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.computerdatabase",
+  "simulationId": "computerdatabase",
+  "start": 1655701819542,
+  "description": "edit with rampUp users",
+  "scenarios": ["computerdatabase"],
+  "assertions": [
+
+  ]
+}

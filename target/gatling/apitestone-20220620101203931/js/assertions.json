@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.API.APITestOne",
+  "simulationId": "apitestone",
+  "start": 1655719923931,
+  "description": "apifirsttest",
+  "scenarios": ["Get API Request Demo"],
+  "assertions": [
+
+  ]
+}
